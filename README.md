@@ -1,6 +1,6 @@
-# React + Vite
-# <Your-Project-Title>
+# PasswordGenerator
 
+## React + Vite
 ## Description
 
 A simple password generator app created using React 
